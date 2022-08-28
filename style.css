@@ -1,0 +1,36 @@
+.btn-fill{
+    background-color: rgb(193, 71, 71);
+    border-color: rgb(193, 71, 71);
+}
+.btn-fill:hover{
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+
+.text-dis-deep{
+    color: red;
+}
+.col{
+    text-align: left;
+    margin: 30px;
+    padding: 18px 32px;
+}
+.col:hover
+{
+    box-shadow: 2px 2px 6px black;
+    border-color: white;
+  
+    
+}
+.co{
+    text-align: left;
+    margin: 10px;
+    padding: 5px 10px;
+}
+.co:hover
+{
+    box-shadow: 2px 2px 6px black;
+    border-color: white;
+  
+    
+}
